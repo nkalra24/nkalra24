@@ -1,5 +1,7 @@
+<h1 align='center'> Hi 👋 I'm Naman Kalra </h1>
+
 # 💫 About Me:
-Hi 👋!<br>My name is Naman Kalra<br>I'm a Student in Manav Rachna Educational Institute (MREI).
+I'm a Student in Manav Rachna Educational Institute (MREI).
 
 
 ## 🌐 Socials:
