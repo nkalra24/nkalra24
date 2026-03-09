@@ -78,14 +78,6 @@ I also build and customize **WordPress websites**, focusing on UI improvements, 
 
 ---
 
-# 🏆 GitHub Achievements
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=nkalra24&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10"/>
-</p>
-
----
-
 # 🔝 Top Contributed Repositories
 
 <p align="center">
@@ -102,12 +94,5 @@ I also build and customize **WordPress websites**, focusing on UI improvements, 
 
 ---
 
-# 🐍 Contribution Snake (Optional but Cool)
-
-<p align="center">
-<img src="https://raw.githubusercontent.com/nkalra24/nkalra24/output/github-contribution-grid-snake.svg"/>
-</p>
-
----
 
 ⭐ From [Naman Kalra](https://github.com/nkalra24)
